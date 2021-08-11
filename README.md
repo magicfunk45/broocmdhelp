@@ -2,7 +2,14 @@
 
 Here all available commands will be described in detail.
 
-```markdown
+* item
+* itme
+
+``` test ```
+
+yexy
+
+```
 Syntax highlighted code block
 
 # Header 1
