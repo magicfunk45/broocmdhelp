@@ -1,10 +1,6 @@
 # Welcome to thebroodlebot commands documentation
 
-![](freya.png)
-"Despair. To be forgotten is worse than death."
-
-## Command Categories {#categories}
-The commands are split into following categories:
+## Command Categories {#comcat}
 * [Broodlebot commands](#broobot)
 * [Broodlebit commands](#broobit)
 * [FF9bot commands](#ff9bot)
@@ -12,8 +8,8 @@ The commands are split into following categories:
 
 ### List of broodlebot commands {#broobot}
 
+* [!bot](#bot) or [!doc](#bot) or [!man](#bot) or[!help](#bot) 
 * [!discord](#discord)
-* [!funk](#funk)
 * [!lurk](#lurk)
 * [!multi](#multi)
 * [!pb](#pb)
@@ -24,7 +20,7 @@ The commands are split into following categories:
 * [meteor](#meteor)
 * [rng](#rng)
 
-Return to [Categories](#categories)
+Return to [Command Categories](#comcat)
 
 ---
 
@@ -37,7 +33,7 @@ Return to [Categories](#categories)
 * [!leaderboard](#top) or [!top](#top)
 * [!steal](#steal)
 
-Return to [Categories](#categories)
+Return to [Command Categories](#comcat)
 
 ---
 
@@ -50,7 +46,6 @@ Return to [Categories](#categories)
   * !physical
   * !support
   * !universal
-  
 * !armor
   * !addons
   * !armlets
@@ -61,7 +56,6 @@ Return to [Categories](#categories)
   * !jewels
   * !light armor
   * !robes
-
 * !weapons
   * !claws
   * !daggers
@@ -76,7 +70,7 @@ Return to [Categories](#categories)
   * !thief swords
   * !unequippable
   
-Return to [Categories](#categories)
+Return to [Command Categories](#comcat)
 
 ---
 
@@ -108,7 +102,7 @@ There will just be a simple text reply when you type these commands. We don't wa
 * toransu
 * trance
 
-Return to [Categories](#categories)
+Return to [Command Categories](#comcat)
 
 ---
 
@@ -116,7 +110,20 @@ Return to [Categories](#categories)
 Here we will provide detailed description on how to use the commands and what they do.
 
 ### Broodlebot commands
-#### Discord {#discord}
+#### Bot documentation manual {#bot}
+```
+!bot
+!doc
+!man
+!help
+```
+* will return link to this bot documentation manual
+
+Return to [Broodlebot commands](#broobot)
+
+---
+
+#### Discord link {#discord}
 ```
 !discord
 ```
@@ -130,7 +137,7 @@ Return to [Broodlebot commands](#broobot)
 ```
 !lurk 
 ```
-* will notify the chat that you are going into lurk mode
+* will notify chatroom that you are going to lurk
 
 Return to [Broodlebot commands](#broobot)
 
@@ -140,7 +147,7 @@ Return to [Broodlebot commands](#broobot)
 ```
 !multi 
 ```
-* will return a link to multiple twitch streams
+* will return a link to multiple twitch streams in parallel
 * usually these are also ff9 runners and good friends of broodles
 
 Return to [Broodlebot commands](#broobot)
@@ -151,7 +158,7 @@ Return to [Broodlebot commands](#broobot)
 ```
 !pb
 ```
-* will return current personal best ff9 speedtun time of broodles
+* will display current personal best ff9 time of thebroodles
 
 Return to [Broodlebot commands](#broobot)
 
@@ -161,8 +168,7 @@ Return to [Broodlebot commands](#broobot)
 ```
 !rules
 ```
-* item
-* item
+* will return a link to the rules for drunkguise 
 
 Return to [Broodlebot commands](#broobot)
 
@@ -174,8 +180,7 @@ Return to [Broodlebot commands](#broobot)
 !so <channel name> 
 ```
 * will provide a link to the kind persons twitch channel 
-* do not fuck up spelling the channel name
-* tab completion is your friend
+* do not fuck up spelling the channel name, tab completion is your friend
 
 Return to [Broodlebot commands](#broobot)
 
@@ -185,19 +190,18 @@ Return to [Broodlebot commands](#broobot)
 ```
 !social 
 ```
-* item
-* item
+* will return broodles discord, twitter and youtube links
 
 Return to [Broodlebot commands](#broobot)
 
 ---
 
-#### Lucky Seven {#lucky}
+#### Lucky seven {#lucky}
 ```
 lucky seven
 ```
-* item
-* item
+* will display a random valid lucky seven value
+* string can be anywgere within message to trigger the command
 
 Return to [Broodlebot commands](#broobot)
 
@@ -207,8 +211,8 @@ Return to [Broodlebot commands](#broobot)
 ```
 meteor 
 ```
-* item
-* item
+* will display a random valid meteor values
+* string can be anywgere within message to trigger the command
 
 Return to [Broodlebot commands](#broobot)
 
@@ -218,8 +222,8 @@ Return to [Broodlebot commands](#broobot)
 ```
 rng 
 ```
-* item
-* item
+* will display a random number ranging form 1 to 9999
+* string can be anywgere within message to trigger the command
 
 Return to [Broodlebot commands](#broobot)
 
@@ -229,13 +233,10 @@ Return to [Broodlebot commands](#broobot)
 #### Broodlebits {#bits}
 ```
 !broodlebits
-or
 !score
-or
 !bits
 ```
-* item
-* item
+* will display the value of yout broodlebits
 
 Return to [Broodlebit commands](#broobit)
 
@@ -243,10 +244,12 @@ Return to [Broodlebit commands](#broobit)
 
 #### Gamble {#gamble}
 ```
-!gamble
+!gamble <value>
+!gamble all
 ```
-* item
-* item
+* value got to be positive and an integer 
+* you can gamble all your brooglebits if you have the balls
+* it's always a 50/50 for win or lose
 
 Return to [Broodlebit commands](#broobit)
 
@@ -254,10 +257,10 @@ Return to [Broodlebit commands](#broobit)
 
 #### Give {#give}
 ```
-!give
+!give <username> <value>
 ```
-* item
-* item
+* username is not case sensitive 
+* value got to be positive and an integer 
 
 Return to [Broodlebit commands](#broobit)
 
@@ -267,8 +270,11 @@ Return to [Broodlebit commands](#broobit)
 ```
 !heist
 ```
-* item
-* item
+* use this command to start or join a heist
+* there is no limit on how many people can join the hunt
+* you can not join a heist when you are in jail
+* heist payout is always 10k as long as you are successfull
+* heist cooldown is 90 seconds
 
 Return to [Broodlebit commands](#broobit)
 
@@ -278,8 +284,11 @@ Return to [Broodlebit commands](#broobit)
 ```
 !hunt
 ```
-* item
-* item
+* use this command to join the hunt
+* at least 3 users neet to join to start a hunt
+* the more people join the hunt the higher the payout will be
+* there is no limit on how many people can join the hunt
+* a hunt will start every 15 to 20 minutes
 
 Return to [Broodlebit commands](#broobit)
 
@@ -288,11 +297,9 @@ Return to [Broodlebit commands](#broobit)
 #### Leaderboard {#top}
 ```
 !leaderboard
-or
 !top
 ```
-* item
-* item
+* will display the top 5 broodlebit owners
 
 Return to [Broodlebit commands](#broobit)
 
@@ -300,10 +307,14 @@ Return to [Broodlebit commands](#broobit)
 
 #### Steal {#steal}
 ```
-!steal
+!steal <username> <value>
 ```
-* item
-* item
+* username is not case sensitive 
+* value got to be positive and an integer 
+* you can only steal as much broodlebits as you got
+* steal got a 40% success rate
+* a successfull steal will steal all of the targeted value
+* an unsuccessfull will put you in jail and you lose a random fraction of 6 of the targeted value 
 
 Return to [Broodlebit commands](#broobit)
 
@@ -314,12 +325,13 @@ Return to [Broodlebit commands](#broobit)
 ```
 !list 
 ```
-* by far the best and most useful bot on this channel
-* ff9bot got a clever build in documentation
-* just run the command and pick your subcategory from the provided list
+* this bot got a build in documentation 
+* just run the command and pick your subcategory from the list
 * repeat until you reach the desired item description
 
 Return to [FF9bot commands](#ff9bot)
 
 ---
 
+![](freya.png)
+"Despair. To be forgotten is worse than death."
