@@ -1,6 +1,6 @@
 # Welcome to thebroodlebot commands documentation
 
-## Categories {#categories}
+## Command Categories {#categories}
 The commands are split into following categories:
 * [Broodlebot commands](#broobot)
 * [Broodlebit commands](#broobit)
@@ -58,19 +58,21 @@ Return to [Categories](#categories)
 	* !light armor
 	* !robes
 * !weapons
-	* !claws
-	* !daggers
-	* !flutes
-	* !forks
-	* !knight swords
-	* !rackets
-	* !rods
-	* !spears
-	* !staves
-	* !swords
-	* !thief swords
-	* !unequippable
-
+  * !claws
+    * !item
+    * !item
+  * !daggers
+  * !flutes
+  * !forks
+  * !knight swords
+  * !rackets
+  * !rods
+  * !spears
+  * !staves
+  * !swords
+  * !thief swords
+  * !unequippable
+  
 Return to [Categories](#categories)
 
 ---
@@ -110,7 +112,7 @@ Return to [Categories](#categories)
 ## Detailed documentation of commands
 Here we will provide detailed description on how to use the commands and what they do.
 
-<!--BROODLEBOT COMMANDS-->
+### Broodlebot commands
 #### Discord {#discord}
 ```
 !discord
@@ -187,7 +189,7 @@ Return to [Broodlebot commands](#broobot)
 
 ---
 
-#### Lucky seven {#lucky}
+#### Lucky Seven {#lucky}
 ```
 lucky seven
 ```
@@ -220,7 +222,7 @@ Return to [Broodlebot commands](#broobot)
 
 ---
 
-<!--BROODLEBIT COMMANDS-->
+### Broodlebit commands 
 #### Broodlebits {#bits}
 ```
 !broodlebits
@@ -304,7 +306,7 @@ Return to [Broodlebit commands](#broobit)
 
 ---
 
-<!--FF9BOT COMMANDS-->
+### FF9bot commands
 #### List {#list}
 ```
 !list 
