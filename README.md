@@ -1,5 +1,7 @@
 # Welcome to thebroodlebot commands documentation
 
+[](freya.png)
+
 ## Command Categories {#categories}
 The commands are split into following categories:
 * [Broodlebot commands](#broobot)
