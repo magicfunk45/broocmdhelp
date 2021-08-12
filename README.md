@@ -41,6 +41,10 @@ Return to [Categories](#categories)
 ### List of FF9bot commands {#ff9bot}
 * [!list](#list)
 
+* [!list](#list)
+	* [!list](#list)
+	* [!list](#list)
+* [!list](#list)
 Return to [Categories](#categories)
 
 ---
