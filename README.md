@@ -1,8 +1,7 @@
 # Welcome to thebroodlebot commands documentation
 
 ## Categories
-Here we will list all available commands and give a detailed description.
-The commands are split into categories:
+The commands are split into following categories:
 * [Broodlebot commands](#broobot)
 * [Broodlebit commands](#broobit)
 * [FF9bot commands](#ff9bot)
@@ -34,8 +33,8 @@ The commands are split into categories:
 ## List of ff9bot commands {#ff9bot}
 * [!list](#list)
 
-## List of all basic bot commands {#basicbot}
-There will just a simple text reply when you type these commands. We don't want to ruin the fun so no more documentation is provided here. Just try the commands in chat and see what happens. 
+## List of other bot commands {#otherbot}
+There will just be a simple text reply when you type these commands. We don't want to ruin the fun so no more documentation is provided here. Just try the commands in chat and see what happens. 
 
 * !beautiful
 * !boobs
@@ -61,15 +60,15 @@ There will just a simple text reply when you type these commands. We don't want 
 * toransu
 * trance
 
-## Detailed documentation
+## Detailed documentation of commands
+Here we will provide description on how to use the commands and what they do.
 
 <!--BROODLEBOT COMMANDS-->
 #### Discord {#discord}
 ```
-!cmd <param>
+!discord
 ```
-* item
-* item
+* will return invite link to broodles discord
 
 Return to [Broodlebot commands](#broobot)
 
@@ -77,10 +76,10 @@ Return to [Broodlebot commands](#broobot)
 
 #### Funk {#funk}
 ```
-!cmd <param>
+!funk
 ```
-* item
-* item
+* spawns two cool dogs wearing sunglasses and bumpin their heads
+* very important to post when the song "Look Back, See the Frog!" is playing
 
 Return to [Broodlebot commands](#broobot)
 
@@ -88,10 +87,10 @@ Return to [Broodlebot commands](#broobot)
 
 #### Lurk {#lurk}
 ```
-!cmd <param>
+!lurk 
 ```
-* item
-* item
+* will notice the chat that you going into lurk mode
+* further instructions will be provided to you in chat
 
 Return to [Broodlebot commands](#broobot)
 
@@ -99,21 +98,20 @@ Return to [Broodlebot commands](#broobot)
 
 #### Multi {#multi}
 ```
-!cmd <param>
+!multi 
 ```
-* item
-* item
+* will provide you with a link to multiple twitch streams
+* usually these are also ff9 runners and good friends of broodles
 
 Return to [Broodlebot commands](#broobot)
 
 ---
 
-#### Pb {#pb}
+#### PB {#pb}
 ```
-!cmd <param>
+!pb
 ```
-* item
-* item
+* will provide you with the current personal best ff9 speedtun time of broodles
 
 Return to [Broodlebot commands](#broobot)
 
@@ -121,7 +119,7 @@ Return to [Broodlebot commands](#broobot)
 
 #### Rules {#rules}
 ```
-!cmd <param>
+!rules
 ```
 * item
 * item
@@ -135,27 +133,16 @@ Return to [Broodlebot commands](#broobot)
 ``` 
 !so <channel name> 
 ```
-* do not misspell the channel name!
 * will provide a link to the kind persons twitch channel 
+* do not misspell the channel name
 
 Return to [Broodlebot commands](#broobot)
 
 ---
 
-#### Social{#social}
+#### Social {#social}
 ```
-!cmd <param>
-```
-* item
-* item
-
-Return to [Broodlebot commands](#broobot)
-
----
-
-#### Lucky seven{#lucky}
-```
-!cmd <param>
+!social 
 ```
 * item
 * item
@@ -164,9 +151,9 @@ Return to [Broodlebot commands](#broobot)
 
 ---
 
-#### Meteor{#meteor}
+#### Lucky seven {#lucky}
 ```
-!cmd <param>
+lycky seven
 ```
 * item
 * item
@@ -175,9 +162,20 @@ Return to [Broodlebot commands](#broobot)
 
 ---
 
-#### RNG{#rng}
+#### Meteor {#meteor}
 ```
-!cmd <param>
+meteor 
+```
+* item
+* item
+
+Return to [Broodlebot commands](#broobot)
+
+---
+
+#### RNG {#rng}
+```
+rng 
 ```
 * item
 * item
@@ -189,7 +187,9 @@ Return to [Broodlebot commands](#broobot)
 <!--BROODLEBIT COMMANDS-->
 #### Broodlebits {#bits}
 ```
-!cmd <parameter>
+!broodlebits
+!score
+!bits
 ```
 * item
 * item
@@ -200,7 +200,7 @@ Return to [Broodlebit commands](#broobit)
 
 #### Gamble {#gamble}
 ```
-!cmd <parameter>
+!gamble
 ```
 * item
 * item
@@ -211,7 +211,7 @@ Return to [Broodlebit commands](#broobit)
 
 #### Give {#give}
 ```
-!cmd <parameter>
+!give
 ```
 * item
 * item
@@ -222,7 +222,7 @@ Return to [Broodlebit commands](#broobit)
 
 #### Heist {#heist}
 ```
-!cmd <parameter>
+!heist
 ```
 * item
 * item
@@ -233,7 +233,7 @@ Return to [Broodlebit commands](#broobit)
 
 #### Hunt {#hunt}
 ```
-!cmd <parameter>
+!hunt
 ```
 * item
 * item
@@ -244,7 +244,8 @@ Return to [Broodlebit commands](#broobit)
 
 #### Leaderboard {#top}
 ```
-!cmd <parameter>
+!leaderboard
+!top
 ```
 * item
 * item
@@ -255,7 +256,7 @@ Return to [Broodlebit commands](#broobit)
 
 #### Steal {#steal}
 ```
-!cmd <parameter>
+!steal
 ```
 * item
 * item
@@ -264,10 +265,10 @@ Return to [Broodlebit commands](#broobit)
 
 ---
 
-<!--BROODLEBIT COMMANDS-->
+<!--FF9BOT COMMANDS-->
 #### List {#list}
 ```
-!list <param>
+!list 
 ```
 * item
 * item
