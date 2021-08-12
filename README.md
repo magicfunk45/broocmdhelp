@@ -1,6 +1,6 @@
 # Welcome to thebroodlebot commands documentation
 
-![](./freya.png)
+![](freya.png)
 "Despair. To be forgotten is worse than death."
 
 ## Command Categories {#categories}
