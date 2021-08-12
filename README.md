@@ -30,7 +30,7 @@ The commands are split into following categories:
 * [!leaderboard](#top) or [!top](#top)
 * [!steal](#steal)
 
-## List of ff9bot commands {#ff9bot}
+## List of FF9bot commands {#ff9bot}
 * [!list](#list)
 
 ## List of other bot commands {#otherbot}
@@ -40,6 +40,7 @@ There will just be a simple text reply when you type these commands. We don't wa
 * !boobs
 * !catjam
 * !ff9bot
+* !funk
 * !glod
 * !gold
 * !lani
@@ -64,7 +65,7 @@ There will just be a simple text reply when you type these commands. We don't wa
 Here we will provide description on how to use the commands and what they do.
 
 <!--BROODLEBOT COMMANDS-->
-{#discord}
+#### Discord {#discord}
 ```
 !discord
 ```
@@ -74,23 +75,11 @@ Return to [Broodlebot commands](#broobot)
 
 ---
 
-{#funk}
-```
-!funk
-```
-* spawns two cool dogs wearing sunglasses and bumpin their heads
-* very important to post when the song "Look Back, See the Frog!" is playing
-
-Return to [Broodlebot commands](#broobot)
-
----
-
 #### Lurk {#lurk}
 ```
 !lurk 
 ```
-* will notice the chat that you going into lurk mode
-* further instructions will be provided to you in chat
+* will notify the chat that you are going into lurk mode
 
 Return to [Broodlebot commands](#broobot)
 
@@ -100,7 +89,7 @@ Return to [Broodlebot commands](#broobot)
 ```
 !multi 
 ```
-* will provide you with a link to multiple twitch streams
+* will return a link to multiple twitch streams
 * usually these are also ff9 runners and good friends of broodles
 
 Return to [Broodlebot commands](#broobot)
@@ -111,7 +100,7 @@ Return to [Broodlebot commands](#broobot)
 ```
 !pb
 ```
-* will provide you with the current personal best ff9 speedtun time of broodles
+* will return current personal best ff9 speedtun time of broodles
 
 Return to [Broodlebot commands](#broobot)
 
@@ -134,7 +123,8 @@ Return to [Broodlebot commands](#broobot)
 !so <channel name> 
 ```
 * will provide a link to the kind persons twitch channel 
-* do not misspell the channel name
+* do not fuck up spelling the channel name
+* tab completion is your friend
 
 Return to [Broodlebot commands](#broobot)
 
@@ -153,7 +143,7 @@ Return to [Broodlebot commands](#broobot)
 
 #### Lucky seven {#lucky}
 ```
-lycky seven
+lucky seven
 ```
 * item
 * item
@@ -188,7 +178,9 @@ Return to [Broodlebot commands](#broobot)
 #### Broodlebits {#bits}
 ```
 !broodlebits
+or
 !score
+or
 !bits
 ```
 * item
@@ -245,6 +237,7 @@ Return to [Broodlebit commands](#broobit)
 #### Leaderboard {#top}
 ```
 !leaderboard
+or
 !top
 ```
 * item
@@ -270,8 +263,10 @@ Return to [Broodlebit commands](#broobit)
 ```
 !list 
 ```
-* item
-* item
+* by far the best and most useful bot on this channel
+* ff9bot got a clever build in documentation
+* just run the command and pick your subcategory from the provided list
+* repeat until you reach the desired item description
 
 Return to [FF9bot commands](#ff9bot)
 
