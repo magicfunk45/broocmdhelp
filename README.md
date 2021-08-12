@@ -8,7 +8,7 @@ The commands are split into categories:
 * [Broodlebit commands](#broobit)
 * [FF9bot commands](#ff9bot)
 
-### List of all basic bot commands {#basicbot}
+## List of all basic bot commands {#basicbot}
 There is just a simple text reply when you type these commands. We don't want to ruin the fun so no more documentation is provided here. Just try the commands in chat and see what happens. 
 
 * !beautiful
@@ -46,22 +46,25 @@ There is just a simple text reply when you type these commands. We don't want to
 * toransu
 * trance
 
-### List of broodlebot commands {#broobot}
+## List of broodlebot commands {#broobot}
 
 * [!so](#shoutout)
 
-### List of broodlebit commands {#broobit}
-[!broodlebits](#bits) or [!score](#bits) or [!bits] (#bits)
-[!gamble](#gamble)
-[!give](#give)
-[!heist](#heist)
-[!hunt](#hunt)
-[!leaderboard](#top) or [!top](#top)
-[!steal](#steal)
+## List of broodlebit commands {#broobit}
+* [!broodlebits](#bits) or [!score](#bits) or [!bits] (#bits)
+* [!gamble](#gamble)
+* [!give](#give)
+* [!heist](#heist)
+* [!hunt](#hunt)
+* [!leaderboard](#top) or [!top](#top)
+* [!steal](#steal)
 
-### List of ff9bot commands {#ff9bot}
-[!list](#list)
+## List of ff9bot commands {#ff9bot}
+* [!list](#list)
 
+## Detailed documentation
+
+<!--BROODLEBOT COMMANDS-->
 #### Shoutout {#shoutout}
 
 ``` 
@@ -72,6 +75,7 @@ There is just a simple text reply when you type these commands. We don't want to
 
 Return to [Broodlebot commands](#broobot)
 
+<!--BROODLEBIT COMMANDS-->
 #### Broodlebits {#bits}
 ```
 !cmd <parameter>
@@ -132,9 +136,15 @@ Return to [Broodlebit commands](#broobit)
 ```
 * item
 * item
-
 Return to [Broodlebit commands](#broobit)
 
+<!--BROODLEBIT COMMANDS-->
 #### List {#list}
+```
+!list <param>
+```
+* item
+* item
+
 Return to [FF9bot commands](#ff9bot)
 
