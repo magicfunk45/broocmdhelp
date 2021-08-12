@@ -64,7 +64,7 @@ There will just be a simple text reply when you type these commands. We don't wa
 Here we will provide description on how to use the commands and what they do.
 
 <!--BROODLEBOT COMMANDS-->
-#### Discord {#discord}
+{#discord}
 ```
 !discord
 ```
@@ -74,7 +74,7 @@ Return to [Broodlebot commands](#broobot)
 
 ---
 
-#### Funk {#funk}
+{#funk}
 ```
 !funk
 ```
