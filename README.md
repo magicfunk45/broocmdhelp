@@ -41,10 +41,36 @@ Return to [Categories](#categories)
 ### List of FF9bot commands {#ff9bot}
 * [!list](#list)
 
-* [!list](#list)
-	* [!list](#list)
-	* [!list](#list)
-* [!list](#list)
+* !abilities
+	* !exclusive
+	* !magical
+	* !physical
+	* !support
+	* !universal
+* !armor
+	* !addons
+	* !armlets
+	* !gloves
+	* !hats
+	* !heavy armor
+	* !helmets
+	* !jewels
+	* !light armor
+	* !robes
+* !weapons
+	* !claws
+	* !daggers
+	* !flutes
+	* !forks
+	* !knight swords
+	* !rackets
+	* !rods
+	* !spears
+	* !staves
+	* !swords
+	* !thief swords
+	* !unequippable
+
 Return to [Categories](#categories)
 
 ---
