@@ -42,25 +42,25 @@ Return to [Categories](#categories)
 * [!list](#list)
 
 * !abilities
-	* !exclusive
-	* !magical
-	* !physical
-	* !support
-	* !universal
+  * !exclusive
+  * !magical
+  * !physical
+  * !support
+  * !universal
+  
 * !armor
-	* !addons
-	* !armlets
-	* !gloves
-	* !hats
-	* !heavy armor
-	* !helmets
-	* !jewels
-	* !light armor
-	* !robes
+  * !addons
+  * !armlets
+  * !gloves
+  * !hats
+  * !heavy armor
+  * !helmets
+  * !jewels
+  * !light armor
+  * !robes
+
 * !weapons
   * !claws
-    * !item
-    * !item
   * !daggers
   * !flutes
   * !forks
