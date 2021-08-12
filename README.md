@@ -9,6 +9,7 @@ The commands are split into categories:
 * [ff9bot commands](#ff9bot)
 
 ### List of all basic bot commands {#basicbot}
+
 There is just a simple text reply when you type these commands. We don't want to ruin the fun so no more documentation is provided here. Just try the commands in chat and see what happens. 
 
 * !beautiful
@@ -62,7 +63,7 @@ There is just a simple text reply when you type these commands. We don't want to
 ### List of all ff9bot commands {#ff9bot}
 [!list]
 
-#### Shoutout (#shoutout)
+#### Shoutout {#shoutout}
 
 ``` 
 !so <channel name> 
