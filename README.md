@@ -1,13 +1,13 @@
 # Welcome to thebroodlebot commands documentation
 
-## Categories
+## Categories {#categories}
 The commands are split into following categories:
 * [Broodlebot commands](#broobot)
 * [Broodlebit commands](#broobit)
 * [FF9bot commands](#ff9bot)
 * [Other bot commands](#otherbot)
 
-## List of broodlebot commands {#broobot}
+### List of broodlebot commands {#broobot}
 
 * [!discord](#discord)
 * [!funk](#funk)
@@ -21,7 +21,11 @@ The commands are split into following categories:
 * [meteor](#meteor)
 * [rng](#rng)
 
-## List of broodlebit commands {#broobit}
+Return to [Categories](#categories)
+
+---
+
+### List of broodlebit commands {#broobit}
 * [!broodlebits](#bits) or [!score](#bits) or [!bits](#bits)
 * [!gamble](#gamble)
 * [!give](#give)
@@ -30,10 +34,18 @@ The commands are split into following categories:
 * [!leaderboard](#top) or [!top](#top)
 * [!steal](#steal)
 
-## List of FF9bot commands {#ff9bot}
+Return to [Categories](#categories)
+
+---
+
+### List of FF9bot commands {#ff9bot}
 * [!list](#list)
 
-## List of other bot commands {#otherbot}
+Return to [Categories](#categories)
+
+---
+
+### List of other bot commands {#otherbot}
 There will just be a simple text reply when you type these commands. We don't want to ruin the fun so no more documentation is provided here. Just try the commands in chat and see what happens. 
 
 * !beautiful
@@ -61,8 +73,12 @@ There will just be a simple text reply when you type these commands. We don't wa
 * toransu
 * trance
 
+Return to [Categories](#categories)
+
+---
+
 ## Detailed documentation of commands
-Here we will provide description on how to use the commands and what they do.
+Here we will provide detailed description on how to use the commands and what they do.
 
 <!--BROODLEBOT COMMANDS-->
 #### Discord {#discord}
